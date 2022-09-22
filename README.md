@@ -57,3 +57,21 @@
 - [42.Webpack-编写Loader](https://github.com/webVueBlog/webpack-studying/issues/42)
 - [43.Webpack-编写Plugin](https://github.com/webVueBlog/webpack-studying/issues/43)
 - [44.Webpack-调试Webpack](https://github.com/webVueBlog/webpack-studying/issues/44)
+
+## 优化
+
+- [45.优化构建速度-缩小文件搜索范围](https://github.com/webVueBlog/webpack-studying/issues/45)
+- [46.优化构建速度-使用DllPlugin](https://github.com/webVueBlog/webpack-studying/issues/46)
+- [47.优化构建速度-使用HappyPack](https://github.com/webVueBlog/webpack-studying/issues/47)
+- [48.优化构建速度-使用ParallelUglifyPlugin](https://github.com/webVueBlog/webpack-studying/issues/48)
+- [49.优化使用体验-使用自动刷新](https://github.com/webVueBlog/webpack-studying/issues/49)
+- [50.优化使用体验-开启模块热替换](https://github.com/webVueBlog/webpack-studying/issues/50)
+- [51.减少用户能感知到的加载时间-区分环境](https://github.com/webVueBlog/webpack-studying/issues/51)
+- [52.减少用户能感知到的加载时间-压缩代码](https://github.com/webVueBlog/webpack-studying/issues/52)
+- [53.减少用户能感知到的加载时间-CDN加速](https://github.com/webVueBlog/webpack-studying/issues/53)
+- [54.减少用户能感知到的加载时间-使用Tree Shaking](https://github.com/webVueBlog/webpack-studying/issues/54)
+- [55.减少用户能感知到的加载时间-提取公共代码](https://github.com/webVueBlog/webpack-studying/issues/55)
+- [56.减少用户能感知到的加载时间-按需加载](https://github.com/webVueBlog/webpack-studying/issues/56)
+- [57.提升流畅度-使用Prepack](https://github.com/webVueBlog/webpack-studying/issues/57)
+- [58.提升流畅度-使用Scope Hoisting](https://github.com/webVueBlog/webpack-studying/issues/58)
+
